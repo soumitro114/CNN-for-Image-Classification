@@ -6,10 +6,4 @@ dog and 4000 images of cat), and then be tested on the test dataset including 10
 evaluation). Finally, you are supposed to input your model with images in "single_prediction" folder in order to classify the image as 
 a dog or cat (making prediction using your model). 
 
-Note: To build your CNN model, please use TensorFlow (integrated with Keras). Keras is built inside the TensorFlow package.
- Initially developed as an independent high-level neural networks API, Keras was later integrated into TensorFlow as its official 
-high-level API for building and training deep learning models. This integration allows Keras to leverage TensorFlow's powerful backend, 
-which includes efficient computation and support for distributed training, while providing an easy-to-use interface for developers.
- Keras simplifies the process of designing complex neural networks with just a few lines of code, making it accessible to beginners and 
-experienced practitioners alike. While Keras can also be used with other backends, its integration with TensorFlow has made it the default
- API within the TensorFlow ecosystem.
+The explanation of the project is posted on Medium : https://medium.com/@soumitro1604114/building-a-convolutional-neural-network-for-cat-vs-dog-classification-40d44f45d4c3
