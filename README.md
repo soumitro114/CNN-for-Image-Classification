@@ -22,4 +22,4 @@ In this project, we are going to build up a convolutional neural network (CNN) t
 
 The project contains a dataset folder and the main notebook file named "CNN for Image Classification.ipynb". The dataset folder contains 3 subfolders named **single_prediction**, **test_set** and **training_set**. The **single_prediction** folder contains 2 images, which have to be identified as either cat or dog. The **test_set** and **training_set** folders each have two subfolders named ***cats*** and ***dogs***. The subfolders in **test_set** contain 1000 images each, used for testing the trained model whereas the subfolders in the **training_set** contain 4000 images each, used for training the model.
 
-The explanation of the project is posted on Medium : https://medium.com/@soumitro1604114/building-a-convolutional-neural-network-for-cat-vs-dog-classification-40d44f45d4c3
+The explanation of the project is posted on [Medium](https://medium.com/@soumitro1604114/building-a-convolutional-neural-network-for-cat-vs-dog-classification-40d44f45d4c3)
